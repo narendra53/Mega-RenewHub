@@ -12,8 +12,7 @@ You can download the latest version of the application here:
 ## Screenshots
 
 ### Dashboard
-![Dashboard](<img width="1366" height="768" alt="Screenshot (311)" src="https://github.com/user-attachments/assets/88898b25-3e4a-45ad-9e06-cff6b7ed4d72" />
-)
+![Dashboard](https://github.com/narendra53/Mega-RenewHub/blob/main/Screenshot%20(311).png)
 
 ### Domain Manager
 ![Domain Manager](screenshots/domain_manager.png)
