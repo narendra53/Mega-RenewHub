@@ -7,7 +7,7 @@ A lightweight offline desktop application for managing digital asset renewals, i
 
 You can download the latest version of the application here:
 
-### → [Download Mega RenewHub (Windows EXE)](link-to-your-release)
+### → [Download Mega RenewHub (Windows EXE)](https://github.com/narendra53/Mega-RenewHub/releases/download/v6.2.1/Mega.RenewHub.Setup.exe)
 
 
 ## About This Release
