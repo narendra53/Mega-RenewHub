@@ -9,6 +9,20 @@ You can download the latest version of the application here:
 
 ### → [Download Mega RenewHub (Windows EXE)](https://github.com/narendra53/Mega-RenewHub/releases/download/v6.2.1/Mega.RenewHub.Setup.exe)
 
+## Screenshots
+
+### Dashboard
+![Dashboard](<img width="1366" height="768" alt="Screenshot (311)" src="https://github.com/user-attachments/assets/88898b25-3e4a-45ad-9e06-cff6b7ed4d72" />
+)
+
+### Domain Manager
+![Domain Manager](screenshots/domain_manager.png)
+
+### Hosting Manager
+![Hosting Manager](screenshots/hosting_manager.png)
+
+### Software Manager
+![Software Manager](screenshots/software_manager.png)
 
 ## About This Release
 
