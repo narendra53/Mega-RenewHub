@@ -70,7 +70,7 @@ This project is released under the **MIT License**, allowing free use and distri
 
 ## Developer
 
-**Narendra Sarki**
+**Narendra Sarki** |
 Mega Info Tech, Nepal
 [https://megainfotech.com.np/](https://megainfotech.com.np/)
 
