@@ -15,13 +15,16 @@ You can download the latest version of the application here:
 ![Dashboard](https://github.com/narendra53/Mega-RenewHub/blob/main/Screenshot%20(311).png)
 
 ### Domain Manager
-![Domain Manager](screenshots/domain_manager.png)
+![Domain Manager](https://github.com/narendra53/Mega-RenewHub/blob/main/Screenshot%20(312).png)
 
 ### Hosting Manager
-![Hosting Manager](screenshots/hosting_manager.png)
+![Hosting Manager](https://github.com/narendra53/Mega-RenewHub/blob/main/Screenshot%20(313).png)
 
 ### Software Manager
-![Software Manager](screenshots/software_manager.png)
+![Software Manager](https://github.com/narendra53/Mega-RenewHub/blob/main/Screenshot%20(314).png)
+
+### Client Manager
+![Client Manager](https://github.com/narendra53/Mega-RenewHub/blob/main/Screenshot%20(315).png)
 
 ## About This Release
 
